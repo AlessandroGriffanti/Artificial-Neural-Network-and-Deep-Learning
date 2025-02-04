@@ -14,7 +14,7 @@ The projects were carried on using:
 * Tensorflow
 * Keras
 
-## Team members:
+## Team members
 * [Alessandro Griffanti](https://github.com/AlessandroGriffanti)
 * [Luca Masiero](https://github.com/LucaMasiero)
 * Eleonora Bellè
