@@ -12,5 +12,11 @@ The projects were carried on using:
 
 * Python
 * Tensorflow
-* Keras 
+* Keras
+
+## Team members:
+* [Alessandro Griffanti](https://github.com/AlessandroGriffanti)
+* [Luca Masiero](https://github.com/LucaMasiero)
+* Eleonora Bellè
+* Andrea Ciarallo 
 
