@@ -17,6 +17,6 @@ The projects were carried on using:
 ## Team members
 * [Alessandro Griffanti](https://github.com/AlessandroGriffanti)
 * [Luca Masiero](https://github.com/LucaMasiero)
-* Eleonora Bellè
+* [Eleonora Bellè](https://github.com/eleonorabelle) 
 * [Andrea Ciarallo](https://github.com/andreaciarallo) 
 
